@@ -23,7 +23,7 @@ Stay tuned for more exciting challenges coming your way!
 1. **Sign Up:** Make sure you have a Kaggle account. It's free!
 2. **Join:** Click on the Kaggle link for the current challenge.
 3. **Learn:** Use the provided resources and Kaggle notebooks to understand the problem.
-4. **Code:** Write your solution in Python, R, or any language supported by Kaggle.
+4. **Code:** Write your solution in Python or R.
 5. **Submit:** Upload your predictions to see how you rank on the leaderboard.
 6. **Share:** Post your notebooks in the `#kaggle-challenges` channel on our Telegram group.
 
