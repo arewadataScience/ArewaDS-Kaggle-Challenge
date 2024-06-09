@@ -54,7 +54,7 @@ The more you share, the more you inspire others and grow our community! 🌍
 ## 📣 Stay Updated
 
 - Follow us on [Twitter](https://twitter.com/arewadatascience) for challenge announcements.
-- Subscribe to our [Newsletter](https://arewadatascience.com/newsletter) for challenge updates and data science tips.
+- Subscribe to our [Newsletter](https://arewadatascience.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Farewadatascience.substack.com%2F) for challenge updates and data science tips.
 
 Happy coding, and may the best data scientist win! 🚀📊
 
