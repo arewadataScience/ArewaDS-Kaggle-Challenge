@@ -1,6 +1,6 @@
 # Arewa Data Science Monthly Kaggle Challenges 🏆
 
-Welcome to the ArewaDataScience a Monthly Kaggle Challenges! We're thrilled to launch this initiative to foster and encourage data science skills among our community members. Every two weeks, we'll present a new Kaggle competition for you to participate in, learn from, and showcase your skills.
+Welcome to the Arewa Data Science a Monthly Kaggle Challenges! We're thrilled to launch this initiative to foster and encourage data science skills among our community members. Every end of the month, we'll present a new Kaggle competition for you to participate in, learn from, and showcase your skills.
 
 ##  Why Participate?
 
