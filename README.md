@@ -13,7 +13,7 @@ Welcome to the Arewa Data Science a Monthly Kaggle Challenges! We're thrilled to
 
 | Challenge Name | Weeks | Top Teams | Kaggle Link | Resources |
 |---------------|-------|----------|------------|-----------|
-| Will the bank customer churn or not? | Jun 10 - Jun 30, 2024 | TBA | [Titanic Challenge](https://www.kaggle.com/t/fdd89f2ee458400b8423c9fdc431a2da) | [Starter Notebook](https://www.kaggle.com/alexisbcook/titanic-tutorial) |
+| Will the bank customer churn or not? | Jun 10 - Jun 30, 2024 | TBA | [Bank Churn Challenge](https://www.kaggle.com/t/fdd89f2ee458400b8423c9fdc431a2da) | [Starter Notebook](https://www.kaggle.com/alexisbcook/titanic-tutorial) |
 | | | TBA |  |  |
 
 Stay tuned for more exciting challenges coming your way! 
