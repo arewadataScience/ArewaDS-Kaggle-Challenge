@@ -9,20 +9,14 @@ Welcome to the ArewaDataScience Bi-Weekly Kaggle Challenges! We're thrilled to l
 - 🏅 **Win:** Top 3 participants in each challenge will be awarded exciting prizes!
 - 📈 **Grow:** Build your data science portfolio and boost your career prospects.
 
-## 🗓️ Challenges
+## 🗓️ Upcoming Challenges
 
 | Challenge Name | Weeks | Top Teams | Kaggle Link | Resources |
 |---------------|-------|----------|------------|-----------|
 | Titanic: Machine Learning from Disaster | Jun 10 - Jun 23, 2024 | TBA | [Titanic Challenge](https://www.kaggle.com/c/titanic) | [Starter Notebook](https://www.kaggle.com/alexisbcook/titanic-tutorial) |
 | House Prices: Advanced Regression Techniques | Jun 24 - Jul 7, 2024 | TBA | [House Prices Challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | [Feature Engineering Guide](https://www.kaggle.com/learn/feature-engineering) |
-| TBA | Jul 8 - Jul 21, 2024 | - | - | - |
-| TBA | Jul 22 - Aug 4, 2024 | - | - | - |
-| TBA | Aug 5 - Aug 18, 2024 | - | - | - |
-| TBA | Aug 19 - Sep 1, 2024 | - | - | - |
-| TBA | Sep 2 - Sep 15, 2024 | - | - | - |
-| TBA | Sep 16 - Sep 29, 2024 | - | - | - |
-| TBA | Sep 30 - Oct 13, 2024 | - | - | - |
-| TBA | Oct 14 - Oct 27, 2024 | - | - | - |
+
+Stay tuned for more exciting challenges coming your way! 🚀
 
 ## 🚀 How to Participate
 
