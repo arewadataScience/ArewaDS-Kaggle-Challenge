@@ -13,7 +13,7 @@ Welcome to the Arewa Data Science a Monthly Kaggle Challenges! We're thrilled to
 
 | Challenge Name | Weeks | Top Teams | Kaggle Link | Resources |
 |---------------|-------|----------|------------|-----------|
-| Kick-up |-| - | [Getting Started with Kaggle](https://www.kaggle.com/code/alexisbcook/getting-started-with-kaggle) | [Recording]() |
+| Kick-up |-| - | [Getting Started with Kaggle](https://www.kaggle.com/code/alexisbcook/getting-started-with-kaggle) | [Recording](https://youtu.be/QBzmWSReP9M) |
 | Will the bank customer churn or not? | TBA | TBA | [Bank Churn Challenge](https://www.kaggle.com/t/fdd89f2ee458400b8423c9fdc431a2da) | [Starter Notebook](https://www.kaggle.com/code/berkayozturkx/bank-customer-churn-predict-public-0-88593) |
 
 
