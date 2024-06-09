@@ -2,23 +2,23 @@
 
 Welcome to the ArewaDataScience Bi-Weekly Kaggle Challenges! We're thrilled to launch this initiative to foster and encourage data science skills among our community members. Every two weeks, we'll present a new Kaggle competition for you to participate in, learn from, and showcase your skills.
 
-## 🎉 Why Participate?
+##  Why Participate?
 
 - 💡 **Learn:** Tackle real-world data science problems and learn new techniques.
 - 🤝 **Collaborate:** Work with and learn from your peers in the ArewaDataScience community.
 - 🏅 **Win:** Top 3 participants in each challenge will be awarded exciting prizes!
 - 📈 **Grow:** Build your data science portfolio and boost your career prospects.
 
-## 🗓️ Upcoming Challenges
+## Upcoming Challenges
 
 | Challenge Name | Weeks | Top Teams | Kaggle Link | Resources |
 |---------------|-------|----------|------------|-----------|
 | Titanic: Machine Learning from Disaster | Jun 10 - Jun 23, 2024 | TBA | [Titanic Challenge](https://www.kaggle.com/c/titanic) | [Starter Notebook](https://www.kaggle.com/alexisbcook/titanic-tutorial) |
 | House Prices: Advanced Regression Techniques | Jun 24 - Jul 7, 2024 | TBA | [House Prices Challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | [Feature Engineering Guide](https://www.kaggle.com/learn/feature-engineering) |
 
-Stay tuned for more exciting challenges coming your way! 🚀
+Stay tuned for more exciting challenges coming your way! 
 
-## 🚀 How to Participate
+##  How to Participate
 
 1. **Sign Up:** Make sure you have a Kaggle account. It's free!
 2. **Join:** Click on the Kaggle link for the current challenge.
@@ -27,7 +27,7 @@ Stay tuned for more exciting challenges coming your way! 🚀
 5. **Submit:** Upload your predictions to see how you rank on the leaderboard.
 6. **Share:** Post your notebooks in the `#kaggle-challenges` channel on our Telegram group.
 
-## 🎊 Awards and Recognition
+##  Awards and Recognition
 
 - 🥇 **1st Place:** [Prize details to be announced]
 - 🥈 **2nd Place:** [Prize details to be announced]
@@ -43,7 +43,7 @@ We encourage all participants to share their journey on social media! 📱
 - 📸 **Instagram:** Share your code snippets or visualizations with `#ArewaDataScienceViz`.
 - 🔗 **LinkedIn:** Post your learnings and tag ArewaDataScience to reach professionals.
 
-The more you share, the more you inspire others and grow our community! 🌍
+The more you share, the more you inspire others and grow our community! 
 
 ## 📞 Need Help?
 
@@ -56,7 +56,7 @@ The more you share, the more you inspire others and grow our community! 🌍
 - Follow us on [Twitter](https://twitter.com/arewadatascience) for challenge announcements.
 - Subscribe to our [Newsletter](https://arewadatascience.substack.com) for challenge updates and data science tips.
 
-Happy coding, and may the best data scientist win! 🚀📊
+Happy coding, and may the best data scientist win! 
 
 ---
 
