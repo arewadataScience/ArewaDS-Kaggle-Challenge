@@ -1,6 +1,6 @@
 # ArewaDataScience Bi-Weekly Kaggle Challenges 🏆
 
-Welcome to the ArewaDataScience Bi-Weekly Kaggle Challenges! We're excited to introduce this initiative to foster and encourage data science skills among our community members. Every two weeks, we'll present a new Kaggle competition for you to participate in, learn from, and showcase your skills.
+Welcome to the ArewaDataScience Bi-Weekly Kaggle Challenges! We're thrilled to launch this initiative to foster and encourage data science skills among our community members. Every two weeks, we'll present a new Kaggle competition for you to participate in, learn from, and showcase your skills.
 
 ## 🎉 Why Participate?
 
@@ -13,10 +13,16 @@ Welcome to the ArewaDataScience Bi-Weekly Kaggle Challenges! We're excited to in
 
 | Challenge Name | Weeks | Top Teams | Kaggle Link | Resources |
 |---------------|-------|----------|------------|-----------|
-| Titanic: Machine Learning from Disaster | 1-2 | TBA | [Titanic Challenge](https://www.kaggle.com/c/titanic) | [Starter Notebook](https://www.kaggle.com/alexisbcook/titanic-tutorial) |
-| House Prices: Advanced Regression Techniques | 3-4 | TBA | [House Prices Challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | [Feature Engineering Guide](https://www.kaggle.com/learn/feature-engineering) |
-| Digit Recognizer: Computer Vision Fundamentals | 5-6 | TBA | [Digit Recognizer Challenge](https://www.kaggle.com/c/digit-recognizer) | [CNN Tutorial](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6) |
-| Natural Language Processing with Disaster Tweets | 7-8 | TBA | [NLP Disaster Tweets Challenge](https://www.kaggle.com/c/nlp-getting-started) | [NLP Guide](https://www.kaggle.com/learn/natural-language-processing) |
+| Titanic: Machine Learning from Disaster | Jun 10 - Jun 23, 2024 | TBA | [Titanic Challenge](https://www.kaggle.com/c/titanic) | [Starter Notebook](https://www.kaggle.com/alexisbcook/titanic-tutorial) |
+| House Prices: Advanced Regression Techniques | Jun 24 - Jul 7, 2024 | TBA | [House Prices Challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | [Feature Engineering Guide](https://www.kaggle.com/learn/feature-engineering) |
+| TBA | Jul 8 - Jul 21, 2024 | - | - | - |
+| TBA | Jul 22 - Aug 4, 2024 | - | - | - |
+| TBA | Aug 5 - Aug 18, 2024 | - | - | - |
+| TBA | Aug 19 - Sep 1, 2024 | - | - | - |
+| TBA | Sep 2 - Sep 15, 2024 | - | - | - |
+| TBA | Sep 16 - Sep 29, 2024 | - | - | - |
+| TBA | Sep 30 - Oct 13, 2024 | - | - | - |
+| TBA | Oct 14 - Oct 27, 2024 | - | - | - |
 
 ## 🚀 How to Participate
 
@@ -25,7 +31,7 @@ Welcome to the ArewaDataScience Bi-Weekly Kaggle Challenges! We're excited to in
 3. **Learn:** Use the provided resources and Kaggle notebooks to understand the problem.
 4. **Code:** Write your solution in Python, R, or any language supported by Kaggle.
 5. **Submit:** Upload your predictions to see how you rank on the leaderboard.
-6. **Share:** Post your notebooks in the `#kaggle-challenges` channel on our Discord.
+6. **Share:** Post your notebooks in the `#kaggle-challenges` channel on our Telegram group.
 
 ## 🎊 Awards and Recognition
 
@@ -35,11 +41,21 @@ Welcome to the ArewaDataScience Bi-Weekly Kaggle Challenges! We're excited to in
 
 Winners will also be featured on our website and social media channels!
 
+## 📣 Spread the Word!
+
+We encourage all participants to share their journey on social media! 📱
+
+- 🐦 **Twitter:** Tweet your progress with `#ArewaDataScienceChallenge` and tag `@arewadatascience`.
+- 📸 **Instagram:** Share your code snippets or visualizations with `#ArewaDataScienceViz`.
+- 🔗 **LinkedIn:** Post your learnings and tag ArewaDataScience to reach professionals.
+
+The more you share, the more you inspire others and grow our community! 🌍
+
 ## 📞 Need Help?
 
-- Join our [Discord server](https://discord.gg/arewadatascience) and ask questions in the `#kaggle-help` channel.
+- Join our [Telegram group](https://t.me/arewadatascience) and ask questions in the `#kaggle-help` channel.
 - Check out the [Kaggle Learn](https://www.kaggle.com/learn) modules for guided tutorials.
-- Attend our bi-weekly meetups for problem-solving sessions.
+- Attend our bi-weekly virtual meetups for problem-solving sessions.
 
 ## 📣 Stay Updated
 
