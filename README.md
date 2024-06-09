@@ -14,7 +14,7 @@ Welcome to the ArewaDataScience a Monthly Kaggle Challenges! We're thrilled to l
 | Challenge Name | Weeks | Top Teams | Kaggle Link | Resources |
 |---------------|-------|----------|------------|-----------|
 | Titanic: Machine Learning from Disaster | Jun 10 - Jun 23, 2024 | TBA | [Titanic Challenge](https://www.kaggle.com/c/titanic) | [Starter Notebook](https://www.kaggle.com/alexisbcook/titanic-tutorial) |
-| House Prices: Advanced Regression Techniques | Jun 24 - Jul 7, 2024 | TBA | [House Prices Challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | [Feature Engineering Guide](https://www.kaggle.com/learn/feature-engineering) |
+| | | TBA |  |  |
 
 Stay tuned for more exciting challenges coming your way! 
 
